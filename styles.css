@@ -1,0 +1,35 @@
+h1{
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+}
+
+h2{
+font-size: 15px;
+float: inline-end;
+
+}
+
+#cont1{
+    
+    background-color:  hsl(0, 0%, 8%);
+    background-size: cover;
+    width: 1400px;
+    height: 680px;
+    border: 1% solid hsl(0, 0%, 8%);
+    margin: 50px auto;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    justify-content: center;
+
+}
+#box1{
+    background-color:  hsl(0, 0%, 12%);
+    height: 550px;
+    width: 350px;
+    margin-left: 530px;
+    justify-content: center;
+    text-align: center;
+    margin-top:0px;
+
+}
